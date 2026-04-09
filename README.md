@@ -32,24 +32,7 @@ Every AI response follows a structured format: root cause diagnosis → specific
 | Deployment | AWS Amplify |
 | Data (MVP) | Hardcoded JSON (swap for CRM API in v2) |
 
-## Getting Started
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## Build for Production
-
-```bash
-npm run build
-```
-
-Output goes to `dist/` — deploy to any static hosting provider.
-
-## Live Demo
+## Live App
 
 Deployed on AWS Amplify: [https://main.d1raet95jjfn25.amplifyapp.com](https://main.d1raet95jjfn25.amplifyapp.com)
 
