@@ -38,6 +38,6 @@ Deployed on AWS Amplify: [https://main.d1raet95jjfn25.amplifyapp.com](https://ma
 
 ## Design
 
-- **Palette**: Deep Navy (#002F6C), Clean White, Bain Red (#E02020) for critical highlights
+- **Palette**: Deep Navy (#002F6C), Clean White, Red (#E02020) for critical highlights
 - **Desktop-first**: Minimum width 1024px
 - **Persistent sidebar** with client context and critical gap alerts
