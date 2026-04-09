@@ -1,4 +1,4 @@
-# Commercial Pulse
+# Commercial Pulse 🚀
 
 **AI-Native Commercial Health Intelligence Platform**
 
